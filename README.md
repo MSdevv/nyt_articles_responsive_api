@@ -1,16 +1,22 @@
-# website_nyt
+# API New York Times
 
-A new Flutter project.
+This is an application made with Flutter using NYT API to consult top tech articles.
 
-## Getting Started
+Il s'agit d'une application créée avec Flutter utilisant l'API NYT afin de consulter des articles liés à la technologie.
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- API NewYorkTimes
+- Responsive
+- Launch Url
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Screenshots
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20210310-223122](https://user-images.githubusercontent.com/61854420/110701192-26069880-81f1-11eb-83b7-96395d5c4598.jpg)
+
+## Video demo
+
+https://user-images.githubusercontent.com/61854420/110701397-69610700-81f1-11eb-8492-dc2346e23297.mp4
+
+
+
