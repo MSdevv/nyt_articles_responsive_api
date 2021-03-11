@@ -16,7 +16,8 @@ Il s'agit d'une application créée avec Flutter utilisant l'API NYT afin de con
 
 ## Video demo
 
-https://user-images.githubusercontent.com/61854420/110701397-69610700-81f1-11eb-8492-dc2346e23297.mp4
+https://user-images.githubusercontent.com/61854420/110786043-f47ee300-826b-11eb-8004-b6237bbf70dd.mp4
+
 
 
 
