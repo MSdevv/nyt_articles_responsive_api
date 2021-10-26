@@ -1,14 +1,6 @@
 # API New York Times
 
-This is an application made with Flutter using NYT API to consult top tech articles.
-
-Il s'agit d'une application créée avec Flutter utilisant l'API NYT afin de consulter des articles liés à la technologie.
-
-## Features
-
-- API NewYorkTimes
-- Responsive
-- Launch Url
+Application made with Flutter using NYT API to consult top tech articles.
 
 ## Screenshots
 
